@@ -1,0 +1,60 @@
+body {
+    background: rgb(245, 245, 245);
+    color: black;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: blue;
+    padding: 10px;
+    font-size: 20px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: pink;
+}
+
+#banner {
+    text-align: center;
+    padding: 1px;
+    color: blue;
+    text-shadow: 1px 1px 2px black;
+    font-size: 25px;
+}
+
+#banner h1 {
+    color: blue;
+    font-size: 70px;
+}
+
+#banner h2 {
+    color: rgb(2, 1, 12);
+    font-size: 30px;
+    text-align: center;
+}
+
+#banner p {
+    color: black;
+    font-size: 25px;
+}
+
+#card {
+    padding: 500px;
+    font-weight: lighter;
+}
+
+#footer {
+    padding: 10px;
+    color: lightgreen
+}
+
+#footer a {
+    color: green;
+    font-size: 20px;
+}
+
+#footer a:hover {
+    color: blue;
+}
